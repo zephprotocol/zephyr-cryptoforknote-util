@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "filesystem": "cpp",
+    "typeinfo": "cpp",
+    "vector": "cpp"
+  }
+}
